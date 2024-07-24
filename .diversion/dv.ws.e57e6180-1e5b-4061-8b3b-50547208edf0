@@ -1,0 +1,12 @@
+{
+  "WorkspaceID": "dv.ws.e57e6180-1e5b-4061-8b3b-50547208edf0",
+  "RepoID": "dv.repo.4bd8e9f4-32dd-443d-be60-b3d485bda34b",
+  "Path": "D:\\UE_5_IHE\\Last2D",
+  "AccountID": "Google_102899977110516449779",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": true,
+  "RepoName": "Last2D"
+}
