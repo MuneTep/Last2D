@@ -16,5 +16,6 @@ Saved
 # 대용량 파일, 그래픽 에셋 폴더 무시
 Source/ParagonKallari/
 Source/ParagonPhase/
+Source/ParagonRevenant/
 # Team_Project에 있는 파일 모두 무시하기
 Team_Project/
